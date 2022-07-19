@@ -118,6 +118,8 @@ https://docs.google.com/spreadsheets/d/1QeFL8mrqaFtnhHsPjVRNkrbNGata67DQGngFfheI
 **Богиня магии** (Владеет 6ью школами)
 
 
+Старое:
+
 
 ### Обозначения
 - УР - уровень в данном класе.

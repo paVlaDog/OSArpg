@@ -4,10 +4,10 @@ from math import floor
 variant = input("Choose variant: simple, bone, bone+mod, compare, 3:")
 
 if (variant == "3"):
-    damageBoneDouble = 4
-    damageBoneSimple = 8
-    damageBoneTwohand = 12
-    mod = 4
+    damageBoneDouble = 12
+    damageBoneSimple = 16
+    damageBoneTwohand = 20
+    mod = 5
     # 0 4 8 12
     # 4 8 12 16
     # 8 12 16 20
